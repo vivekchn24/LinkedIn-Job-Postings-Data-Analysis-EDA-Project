@@ -2,7 +2,7 @@
 
 - This project focuses on performing Exploratory Data Analysis (EDA) on job postings extracted from LinkedIn between 2023 and 2024, aiming to uncover trends in hiring practices, in-demand roles, and skill requirements across industries.
 
-## **LinkedIn-Job-Postings-Data-Analysis-EDA-Project**
+## **💼 LinkedIn-Job-Postings-Data-Analysis-EDA-Project**
 
 - Every day, thousands of companies and individuals turn to LinkedIn in search of talent. This dataset contains a nearly comprehensive record of 124,000+ job postings listed in 2023 and 2024. Each individual posting contains dozens of valuable attributes for both postings and companies, including the title, job description, salary, location, application URL, and work-types (remote, contract, etc), in addition to separate files containing the benefits, skills, and industries associated with each posting. The majority of jobs are also linked to a company, which are all listed in another csv file containing attributes such as the company description, headquarters location, and number of employees, and follower count.
 
