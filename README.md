@@ -78,6 +78,8 @@
 
 9) Jobs with Not-Mentioned Compensation still perform well, but Base Salary detail attracts better candidates.
 
+## **📎 This project does not include business insights. It is intended for practice only.**
+
 ## **⚠️ Important:-**
 
 - The code, analysis, and outputs in this project are not to be copied and used elsewhere, including in resumes or other projects that's why i attached jupyter notebook pdf only.The goal of this project is to practice and improve my skills, not to provide ready-to-use solutions.
